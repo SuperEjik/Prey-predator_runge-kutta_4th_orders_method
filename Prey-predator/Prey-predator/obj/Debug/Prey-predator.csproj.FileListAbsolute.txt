@@ -1,0 +1,11 @@
+D:\Visual studio project\Prey-predator\Prey-predator\bin\Debug\Prey-predator.exe.config
+D:\Visual studio project\Prey-predator\Prey-predator\bin\Debug\Prey-predator.exe
+D:\Visual studio project\Prey-predator\Prey-predator\bin\Debug\Prey-predator.pdb
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey-predator.csproj.AssemblyReference.cache
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey-predator.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey_predator.Form1.resources
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey_predator.Properties.Resources.resources
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey-predator.csproj.GenerateResource.cache
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey-predator.csproj.CoreCompileInputs.cache
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey-predator.exe
+D:\Visual studio project\Prey-predator\Prey-predator\obj\Debug\Prey-predator.pdb
